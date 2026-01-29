@@ -63,8 +63,6 @@ I enjoy exploring data, performing **EDA**, and transforming raw datasets into *
 
 ## 🌐 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/syed-shoeb-61316131016151218191/
-- 💻 GitHub: https://github.com/SyedShoeb149
-
 ---
 
 ⭐ *Always curious about data, insights, and solving real business problems.*
