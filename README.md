@@ -1,5 +1,5 @@
 # Hi 👋, I'm Syed Shoeb  
-### Data Analyst | MIS & Business Analytics
+### Data Analyst | MIS & Business Analyst
 
 I’m a **Data Analyst with 2+ years of experience** in MIS, digital analytics, and automated reporting.  
 I enjoy exploring data, performing **EDA**, and transforming raw datasets into **actionable business insights**.
